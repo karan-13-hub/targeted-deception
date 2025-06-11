@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: gym_kuhn_poker
+Version: 0.1
+Summary: OpenAI gym environment for Kuhn poker
+Requires-Dist: gym
+Requires-Dist: numpy
+Dynamic: requires-dist
+Dynamic: summary
